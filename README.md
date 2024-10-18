@@ -1,6 +1,6 @@
-<h1>Hi, I'm Michael Novak! <br/><a [href="https://github.com/mwn8721">Healthcare Administrator</a>, <a href="[https://www.linkedin.com/in/mnovak07306?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1DVn4fjhSEWLeoHtj8UvZw%3D%3D)">Non-Profit Sector</a>, <a href="https://www.youtube.com/@timber8721">YouTuber</a></h1>
+<h1>Hi, I'm Michael Novak! <br/><a [href="https://github.com/mwn8721">Healthcare Administrator</a>, <a href="[https://www.linkedin.com/in/mnovak07306?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1DVn4fjhSEWLeoHtj8UvZw%3D%3D)">Non-Profit Sector</a>, <a href="https://www.youtube.com/@timber8721">Big Time Dreamer</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Resume + Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
