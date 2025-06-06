@@ -38,13 +38,17 @@ Developed TQM protocols improving service delivery efficiency by 20% across mult
 - Conducted 50+ site visits implementing corrective action plans
 
 ## 🎓 Education & Credentials
-**Doctor of Healthcare Administration (c)**  
-Seton Hall University | Expected 2025  
+**Doctor of Healthcare Administration and Management (c)**  
+Seton Hall University | Expected 2027  
 *Research Focus: Healthcare System Optimization Models*
 
-**Master of Healthcare Administration**  
+**Master of Healthcare Administration and Management**  
 Seton Hall University | 2023  
 *Concentration: Healthcare Financial Analytics*
+
+**Bachelors of Healthcare Administration and Management**  
+University of Phoenix | 2014  
+*Concentration: Population Healthcare*
 
 **Certifications:**  
 ![BLS](https://img.shields.io/badge/BLS_Certified-2027-critical)
